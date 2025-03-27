@@ -1,0 +1,2 @@
+# ArgoCD Helm Implementation
+ArgoCD has an opinionated way of consuming helm charts. That opinionation is generally inline with most charts, however as helmm continues to grow into an orchistration tool.  That imparative logic directly conflicts with the goal of GitOps.
