@@ -18,7 +18,7 @@ The prototype is battery driven and uses some fancy power hungry individually ad
 ## Recent Order:
 * esp32-c3 [AliExpress](https://www.aliexpress.us/item/3256807018729495.html)
 * USB Power Module [AliExpress](https://www.aliexpress.us/item/3256805992876765.html)
-* Buck Converter [AliExpres](https://www.aliexpress.us/item/3256805844723148.html)
+* Buck Converter [AliExpress](https://www.aliexpress.us/item/3256805844723148.html)
 * 21700 batter holder 2cell [AliExpress](https://www.aliexpress.us/item/3256802885555629.html)
 * 21700 batteries [18650battery](https://18650battery.com/products/samsung-50e-21700-5000mah-9-8a-battery)
 * Battery Management System [Amazon](https://www.amazon.com/dp/B08MPXHFJB)
