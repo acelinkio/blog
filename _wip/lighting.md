@@ -15,6 +15,16 @@ The prototype is battery driven and uses some fancy power hungry individually ad
 * booster step up power supply module $2
 * usb fixed voltage power module $2
 
+## Recent Order:
+* esp32-c3 [AliExpress](https://www.aliexpress.us/item/3256807018729495.html)
+* USB Power Module [AliExpress](https://www.aliexpress.us/item/3256805992876765.html)
+* Buck Converter [AliExpres](https://www.aliexpress.us/item/3256805844723148.html)
+* 21700 batter holder 2cell [AliExpress](https://www.aliexpress.us/item/3256802885555629.html)
+* 21700 batteries [18650battery](https://18650battery.com/products/samsung-50e-21700-5000mah-9-8a-battery)
+* Battery Management System [Amazon](https://www.amazon.com/dp/B08MPXHFJB)
+* Rocker Switch DC 14vdc 20amp [DigiKey](https://www.digikey.com/en/products/detail/visual-communications-company-vcc/VRS-1-Q2PSI-20KNN-0-M1/26812230)
+* Lights [TBD]
+
 # Parking
 ## Level 1
 Create ~10 of these cones.  Turn them on at ~7pm and let them run.  Collect the batteries in the morning, charge, and repeat.
